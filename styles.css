@@ -1,0 +1,23 @@
+html {
+  font-family: helvetica, arial, sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 1px;
+  column-span: all;
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: red;
+  break-before: column;
+}
+
+p {
+  line-height: 1.5;
+}
+
+article {
+  column-width: 200px;
+}
